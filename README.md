@@ -1,1 +1,1 @@
-# blog_application
+# social_networking_app
